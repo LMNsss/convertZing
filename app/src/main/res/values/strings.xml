@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Zing MP3</string>
+    <string name="name_source">Bài hát yêu thích</string>
+    <string name="name_play_from">PHÁT TỪ</string>
+    <string name="info">Thông tin</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add">Thêm</string>
+    <string name="input_name_singer">Nhập tên ca sỹ</string>
+    <string name="input_name_song">Nhập tên bài hát</string>
+    <string name="title_add_new_song">Thêm Bài Hát Mới</string>
+    <string name="info_song">Thông Tin bài hát</string>
+    <string name="name_of_song">Tên bài hát</string>
+    <string name="update">Cập nhật</string>
+    <string name="update_name_song">Cập nhật bài hát</string>
+    <string name="name_of_singer">Tên ca sỹ</string>
+    <string name="would_you_like_delete_this_song">Bạn muốn xóa bài hát này?</string>
+    <string name="delete">Xóa</string>
+    <string name="exit">thoát</string>
+    <string name="cancel">Hủy</string>
+    <string name="discovery">Khám phá</string>
+</resources>
